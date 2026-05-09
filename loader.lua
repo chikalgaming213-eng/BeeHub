@@ -1,4 +1,4 @@
-local repoUrl = "https://raw.githubusercontent.com/chikalgaming213-eng/BeeHub/main/BeeHub/src/"
+local repoUrl = "https://raw.githubusercontent.com/chikalgaming213-eng/BeeHub/refs/heads/main/loader.lua"
 
 loadstring(game:HttpGet(repoUrl .. "config.lua"))()
 wait(0.5)
